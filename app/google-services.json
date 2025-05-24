@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "716241499838",
+    "project_id": "imotive",
+    "storage_bucket": "imotive.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716241499838:android:c157c231ad326e808650ef",
+        "android_client_info": {
+          "package_name": "com.example.imotive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5rQcRm_5JTWI615CI0-B02KP5AQM4uM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
